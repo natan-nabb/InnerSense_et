@@ -24,7 +24,7 @@ export const articles: Article[] = [
     title: 'Understanding Emotional Waves',
     excerpt: 'Techniques to cultivate inner peace amidst daily chaos.',
     category: 'Articles',
-    image: '/images/hero-beach.jpg',
+    image: '/images/share-image.jpg',
     date: 'January 6, 2026',
     featured: true,
     content: [
