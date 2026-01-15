@@ -47,12 +47,12 @@ const About = () => (
               </Avatar>
 
               <div>
-                <h4 className="font-semibold">Rebira Zeleke</h4>
+                <h4 className="font-semibold">Natanim Abera</h4>
                 <p className="text-sm text-muted-foreground">Founder · Mindfulness Guide</p>
               </div>
 
               <p className="text-sm text-muted-foreground">
-                Rebira founded Inner Sense to share approachable practices that help people build emotional awareness and live more intentionally.
+                Natanim founded Inner Sense to share approachable practices that help people build emotional awareness and live more intentionally.
               </p>
 
               <Link to="https://t.me/InnerSense_help" className="text-sm text-primary mt-2">Say hello</Link>
